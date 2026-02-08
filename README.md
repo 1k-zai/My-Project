@@ -1,3 +1,7 @@
+Name: Lupiya Singini
+
+SIN: 2410394418
+
 Question 2: How did you use the class and id attributes differently?
 The id attribute was used to uniquely identify sections of the website such as home, about, and contact. These IDs allow navigation links to move users directly to specific sections of the webpage.
 
